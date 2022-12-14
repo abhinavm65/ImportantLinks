@@ -16,4 +16,5 @@
         background-color: #3a92cc !important;
     }
   ```
-* [HTML Specs](https://html.spec.whatwg.org/)  
+* [HTML Specs](https://html.spec.whatwg.org/) 
+* [Salesforce CLI Environment Variables](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_dev_cli_env_variables.htm)   
