@@ -19,3 +19,4 @@
 * [HTML Specs](https://html.spec.whatwg.org/) 
 * [Salesforce CLI Environment Variables](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_dev_cli_env_variables.htm)   
 * [Inter-Component Communication Patterns for Lightning Web Components](https://developer.salesforce.com/blogs/2021/05/inter-component-communication-patterns-for-lightning-web-components)  
+* [Temporal Dead Zone Javascript](https://www.freecodecamp.org/news/what-is-the-temporal-dead-zone/)  
