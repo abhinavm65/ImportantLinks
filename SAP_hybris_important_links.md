@@ -22,3 +22,4 @@
 * [Temporal Dead Zone Javascript](https://www.freecodecamp.org/news/what-is-the-temporal-dead-zone/)  
 * [Arrow Functions vs. Regular Functions in JavaScript](https://blog.bitsrc.io/arrow-functions-vs-regular-functions-in-javascript-458ccd863bc1)  
 * [Websocket in lwc example](https://blog.jamigibbs.com/websockets-in-salesforce-with-lightning-web-components/)  
+* [Share JS code in lwc modules](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/js_share_code)  
