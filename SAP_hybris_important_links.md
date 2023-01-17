@@ -23,4 +23,5 @@
 * [Arrow Functions vs. Regular Functions in JavaScript](https://blog.bitsrc.io/arrow-functions-vs-regular-functions-in-javascript-458ccd863bc1)  
 * [Websocket in lwc example](https://blog.jamigibbs.com/websockets-in-salesforce-with-lightning-web-components/)  
 * [Share JS code in lwc modules](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/js_share_code)  
-* [Bubbling Vs Capturing in JS](https://javascript.info/bubbling-and-capturing#:~:text=Capturing%20phase%20%E2%80%93%20the%20event%20goes,bubbles%20up%20from%20the%20element.)  
+* [Bubbling Vs Capturing in JS](https://javascript.info/bubbling-and-capturing)  
+* [Event Delegation in JS](https://javascript.info/event-delegation)
