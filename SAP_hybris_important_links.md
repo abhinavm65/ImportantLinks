@@ -24,4 +24,5 @@
 * [Websocket in lwc example](https://blog.jamigibbs.com/websockets-in-salesforce-with-lightning-web-components/)  
 * [Share JS code in lwc modules](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/js_share_code)  
 * [Bubbling Vs Capturing in JS](https://javascript.info/bubbling-and-capturing)  
-* [Event Delegation in JS](https://javascript.info/event-delegation)
+* [Event Delegation in JS](https://javascript.info/event-delegation)  
+* [Scripts: async, defer](https://javascript.info/script-async-defer)    
